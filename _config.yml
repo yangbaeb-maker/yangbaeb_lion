@@ -15,10 +15,10 @@ title: "Seungwon Blog"
 description: "Hello!"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "https://www.instagram.com/snwn214?igsh=MXVlZ2JsOGY5M3Jzeg%3D%3D&utm_source=qr"
+baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://scriptor-jekyll.netlify.com"
+url: "https://yangbaeb-maker.github.io"
 
 # Favicon
 favicon: images/favicon.png
@@ -28,16 +28,14 @@ google_analytics: ""
 
 # Site navigation - each item must have a title and a url.
 navigation:
-  - text: Home
-    url: /
+  - text: instagram
+    url: /https://www.instagram.com/snwn214?igsh=MXVlZ2JsOGY5M3Jzeg%3D%3D&utm_source=qr
   - text: About
     url: /about/
   - text: Style Guide
     url: /style-guide/
   - text: Tags
     url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
 disqus: yangbaeb
