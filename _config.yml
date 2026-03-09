@@ -9,13 +9,13 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Seungwon Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Hello!"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "https://www.instagram.com/snwn214?igsh=MXVlZ2JsOGY5M3Jzeg%3D%3D&utm_source=qr"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://scriptor-jekyll.netlify.com"
@@ -40,10 +40,10 @@ navigation:
     url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: yangbaeb
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#5555BC'
 
 # Site footer
 footer:
